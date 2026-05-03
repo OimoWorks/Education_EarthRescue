@@ -1,0 +1,7 @@
+[
+  {"question":"はみがきちゅうの みずは？","choices":["だしっぱなし","とめる","どちらでも"],"correctIndex":1,"explanation":"みずをたいせつにしよう"},
+  {"question":"でんきをつけっぱなしは？","choices":["いい","だめ","よるだけいい"],"correctIndex":1,"explanation":"つかわないへやはけそう"},
+  {"question":"れじぶくろをへらすには？","choices":["まいばっぐ","なんでももらう","すてる"],"correctIndex":0,"explanation":"まいばっぐでごみをへらせる"},
+  {"question":"たべのこしは？","choices":["できるだけなくす","ふやす","きにしない"],"correctIndex":0,"explanation":"しょくひんろすをへらそう"},
+  {"question":"くるまよりえこなのは？","choices":["あるく","ひとりでのる","むだにのる"],"correctIndex":0,"explanation":"ちかいばしょはあるこう"}
+]

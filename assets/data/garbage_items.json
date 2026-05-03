@@ -1,0 +1,7 @@
+[
+  {"name":"しんぶんし","category":"資源ごみ","description":"ひもでしばってだそう"},
+  {"name":"でんち","category":"危険ごみ","description":"ぶんべつかいしゅうへ"},
+  {"name":"ばななのかわ","category":"もえるごみ","description":"なまごみとしてだそう"},
+  {"name":"われたさら","category":"もえないごみ","description":"しんぶんしでつつんでだそう"},
+  {"name":"ぺっとぼとる","category":"資源ごみ","description":"らべるをはがしてあらう"}
+]
